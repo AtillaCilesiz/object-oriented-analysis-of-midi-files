@@ -1,0 +1,67 @@
+Analysis of MIDI file:
+
+Notes (first 10):
+Note: D, Time: 0
+Note: D, Time: 192
+Note: D, Time: 288
+Note: D, Time: 480
+Note: D, Time: 576
+Note: D, Time: 768
+Note: D, Time: 864
+Note: D, Time: 960
+Note: D, Time: 1056
+Note: D, Time: 1152
+Total Notes: 1453
+
+Note Frequencies:
+A#1: 47 times
+A#2: 47 times
+A#3: 12 times
+A#4: 30 times
+A#5: 11 times
+A1: 81 times
+A2: 81 times
+A3: 37 times
+A4: 74 times
+A5: 32 times
+B3: 1 times
+C#4: 11 times
+C#5: 4 times
+C2: 36 times
+C3: 36 times
+C4: 37 times
+C5: 37 times
+C6: 2 times
+D1: 4 times
+D2: 116 times
+D3: 112 times
+D4: 96 times
+D5: 84 times
+E4: 39 times
+E5: 35 times
+F1: 4 times
+F2: 33 times
+F3: 40 times
+F4: 61 times
+F5: 60 times
+G1: 36 times
+G2: 36 times
+G3: 3 times
+G4: 34 times
+G5: 44 times
+
+Channel Analysis:
+Channel 0: D4, D4, D4, D4, D4, D4, D4, D4, D4, D4...
+Total Notes in Channel 0: 560
+Channel 2: D4, D4, A#4, A4, A4, D4, D4, E4, F4, F4...
+Total Notes in Channel 2: 195
+Channel 1: D1, D2, D1, D2, D1, D2, D2, D3, D2, D3...
+Total Notes in Channel 1: 698
+
+Tempo Changes:
+Tempo: 200 BPM
+
+Dynamics:
+Average Velocity: 104,53
+Max Velocity: 110
+Min Velocity: 75

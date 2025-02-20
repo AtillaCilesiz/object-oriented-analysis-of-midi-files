@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXB5CEwwtXQ=",
+  "success": true,
+  "projectFilePath": "/Users/ati/Documents/Çalışmalarım/Coding/vscode/MidiProject/MidiProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ati/.nuget/packages/melanchall.drywetmidi/7.2.0/melanchall.drywetmidi.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
