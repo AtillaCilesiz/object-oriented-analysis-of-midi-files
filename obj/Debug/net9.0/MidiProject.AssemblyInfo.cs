@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MidiProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943a438d8325f0c018d0e354e6c96cce067788fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MidiProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MidiProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
